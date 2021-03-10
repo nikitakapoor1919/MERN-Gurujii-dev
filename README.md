@@ -52,15 +52,17 @@ Click Here to view the deployment!
 
 ### Great! Now you are good to go. Open/pick an issue, discuss your idea, make the changes in your feature branch and create your first pull request in this repo.
 
-#### <strong>Interesting?? Star ⭐ this Repo.</strong> 🤩
+#### <strong>Interesting?? Star ⭐ this Repo.</strong> 
 
 ## ⭐<strong> Issues [![GitHub issues](https://img.shields.io/github/issues/Namanl2001/MERN-Gurujii-dev.svg)](https://github.com/Namanl2001/MERN-Gurujii-dev/issues) [![GitHub issues](https://img.shields.io/github/issues-closed/Namanl2001/MERN-Gurujii-dev.svg)](https://github.com/Namanl2001/MERN-Gurujii-dev/issues?q=is%3Aissue+is%3Aclosed)</strong>
 For major changes, you are welcomed to open an issue and discuss what you would like to contribute. Enhancements will be appreciated.
+
 
 ### Want to test your changes on mobile phone?
 
 - To view on mobile, your laptop and mobile phone should be on the same network.
 - Run ipconfig on terminal, enter `<ip4address>:3000` as url on mobile web browser. 
+
 
 ## 📢 <strong>Open Source Program [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Namanl2001/)  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Namanl2001/)</strong>
 
@@ -69,5 +71,6 @@ This Project is a part of the following Open Source Program
 - GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under guidance of experienced mentors. Top participants get exciting goodies and opportunities.
 
 - GirlScript Summer of Code 2020 witnessed overwhelming participation and 2021 edition will carry the legacy forward while promising to be even more impactful and grand.
+
 
 <img src ="https://miro.medium.com/max/3000/1*CKaCnG11p5i0KiQyaoyBvg.png" alt ="Girlscript Summer Of Code"></img>
