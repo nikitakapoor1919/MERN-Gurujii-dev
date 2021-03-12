@@ -1,6 +1,6 @@
-# BACKEND
+# MERN-Guriji-dev-Backend
 
-### Want to contribute? Follow the steps below to set it up locally.
+Follow the steps below to set it up locally.
 
 ```
 # Clone the repository
